@@ -15,19 +15,26 @@
       "static/css/8fa7ae825f799f4f.css",
       "static/chunks/app/layout-8b74e6899aebe8d3.js"
     ],
-    "/calpat/page": [
-      "static/chunks/webpack-794933cec1e90a15.js",
-      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
-      "static/chunks/69-40200f308ef900fc.js",
-      "static/chunks/main-app-a76abb25d6af8c98.js",
-      "static/chunks/app/calpat/page-31879cebf52c21db.js"
-    ],
     "/page": [
       "static/chunks/webpack-794933cec1e90a15.js",
       "static/chunks/fd9d1056-cc48c28d170fddc2.js",
       "static/chunks/69-40200f308ef900fc.js",
       "static/chunks/main-app-a76abb25d6af8c98.js",
       "static/chunks/app/page-966c8c09ec326daa.js"
+    ],
+    "/calpat/page": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/calpat/page-a605cf29839ae2e2.js"
+    ],
+    "/calpat/layout": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/calpat/layout-5fa978f058031764.js"
     ]
   }
 }
