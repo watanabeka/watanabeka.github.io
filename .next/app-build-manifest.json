@@ -22,19 +22,47 @@
       "static/chunks/main-app-a76abb25d6af8c98.js",
       "static/chunks/app/page-966c8c09ec326daa.js"
     ],
-    "/calpat/page": [
+    "/schooltag/page": [
       "static/chunks/webpack-794933cec1e90a15.js",
       "static/chunks/fd9d1056-cc48c28d170fddc2.js",
       "static/chunks/69-40200f308ef900fc.js",
       "static/chunks/main-app-a76abb25d6af8c98.js",
-      "static/chunks/app/calpat/page-a605cf29839ae2e2.js"
+      "static/chunks/app/schooltag/page-ce4cb54012059fe1.js"
+    ],
+    "/schooltag/layout": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/schooltag/layout-64975c28ab3ee592.js"
+    ],
+    "/citytag/page": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/citytag/page-d9483af96f4fa80d.js"
+    ],
+    "/citytag/layout": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/citytag/layout-dda0f67c8bca3e5b.js"
     ],
     "/calpat/layout": [
       "static/chunks/webpack-794933cec1e90a15.js",
       "static/chunks/fd9d1056-cc48c28d170fddc2.js",
       "static/chunks/69-40200f308ef900fc.js",
       "static/chunks/main-app-a76abb25d6af8c98.js",
-      "static/chunks/app/calpat/layout-5fa978f058031764.js"
+      "static/chunks/app/calpat/layout-85b344e06db5f24a.js"
+    ],
+    "/calpat/page": [
+      "static/chunks/webpack-794933cec1e90a15.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-40200f308ef900fc.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/calpat/page-2803a17cdb2df74d.js"
     ]
   }
 }
