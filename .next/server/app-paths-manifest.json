@@ -3,6 +3,7 @@
   "/page": "app/page.js",
   "/ai-music-quiz/page": "app/ai-music-quiz/page.js",
   "/citytag/page": "app/citytag/page.js",
-  "/schooltag/page": "app/schooltag/page.js",
-  "/calpat/page": "app/calpat/page.js"
+  "/side-job-book/page": "app/side-job-book/page.js",
+  "/calpat/page": "app/calpat/page.js",
+  "/schooltag/page": "app/schooltag/page.js"
 }
