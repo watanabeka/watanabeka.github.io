@@ -1,0 +1,96 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/_not-found-a306a985bb0d816b.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/css/8f42613c7bf0c952.css",
+      "static/chunks/app/layout-7d1f9b43366c23a2.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/page-5222d2453a23a751.js"
+    ],
+    "/schooltag/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/schooltag/page-e15a79af6e576ff5.js"
+    ],
+    "/schooltag/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/schooltag/layout-40bd343ecef5e66b.js"
+    ],
+    "/ai-music-quiz/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/ai-music-quiz/page-a9ed4e40f428e8fd.js"
+    ],
+    "/ai-music-quiz/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/ai-music-quiz/layout-6a8cd3bccd375bb3.js"
+    ],
+    "/citytag/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/citytag/page-f366d8b23a7a5c99.js"
+    ],
+    "/citytag/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/citytag/layout-ed630fd13fd7d9cf.js"
+    ],
+    "/calpat/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/calpat/page-7bab7be847d6e2f8.js"
+    ],
+    "/calpat/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/calpat/layout-70f8767345fc8db3.js"
+    ],
+    "/side-job-book/layout": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/side-job-book/layout-f24881e8c81e6f61.js"
+    ],
+    "/side-job-book/page": [
+      "static/chunks/webpack-b7d2e6b8aa897a75.js",
+      "static/chunks/fd9d1056-cc48c28d170fddc2.js",
+      "static/chunks/69-81aff651d8866dd8.js",
+      "static/chunks/main-app-a76abb25d6af8c98.js",
+      "static/chunks/app/side-job-book/page-d781afedc38e4137.js"
+    ]
+  }
+}
