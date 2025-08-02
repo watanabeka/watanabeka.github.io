@@ -1,7 +1,7 @@
 export default function SideJobBook() {
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto', padding: '40px 20px', fontFamily: 'Arial, sans-serif', lineHeight: '1.6' }}>
-      <h1 style={{ fontSize: '2em', marginBottom: '10px' }}>SideBook - 副業収支管理アプリ</h1>
+      <h1 style={{ fontSize: '2em', marginBottom: '10px' }}>マネログ - 副業収支管理アプリ</h1>
       <h2 style={{ fontSize: '1.3em', marginBottom: '30px', color: '#555' }}>シンプルで使いやすい副業の収支記録アプリ</h2>
 
       <h2 style={{ fontSize: '1.5em', marginTop: '40px', marginBottom: '20px' }}>プライバシーポリシー</h2>
@@ -9,7 +9,7 @@ export default function SideJobBook() {
 
       <h3 style={{ fontSize: '1.2em', marginTop: '25px', marginBottom: '15px' }}>はじめに</h3>
       <p style={{ marginBottom: '20px' }}>
-        本プライバシーポリシーは、SideBook（以下、「本アプリ」）におけるユーザー情報の取り扱いについて説明するものです。
+        本プライバシーポリシーは、マネログ（以下、「本アプリ」）におけるユーザー情報の取り扱いについて説明するものです。
       </p>
 
       <h3 style={{ fontSize: '1.2em', marginTop: '25px', marginBottom: '15px' }}>収集する情報</h3>
@@ -92,7 +92,7 @@ export default function SideJobBook() {
 
       <h3 style={{ fontSize: '1.2em', marginTop: '25px', marginBottom: '15px' }}>第1条（適用）</h3>
       <ol style={{ marginBottom: '20px', paddingLeft: '20px' }}>
-        <li>本規約は、SideBook（以下、「本サービス」）の利用条件を定めるものです。</li>
+        <li>本規約は、マネログ（以下、「本サービス」）の利用条件を定めるものです。</li>
         <li>ユーザーは、本サービスを利用することで、本規約に同意したものとみなされます。</li>
       </ol>
 
@@ -186,7 +186,7 @@ export default function SideJobBook() {
       <hr style={{ margin: '40px 0', border: 'none', borderTop: '1px solid #ccc' }} />
 
       <p style={{ textAlign: 'center', color: '#666', marginTop: '40px' }}>
-        © 2025 SideBook. All rights reserved.
+        © 2025 マネログ. All rights reserved.
       </p>
     </div>
   );
