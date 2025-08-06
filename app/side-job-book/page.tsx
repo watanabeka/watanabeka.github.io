@@ -82,7 +82,8 @@ export default function SideJobBook() {
 
       <h3 style={{ fontSize: '1.2em', marginTop: '25px', marginBottom: '15px' }}>お問い合わせ</h3>
       <p style={{ marginBottom: '40px' }}>
-        プライバシーに関するご質問やご懸念がある場合は、アプリ内のサポートセクションからお問い合わせください。
+        プライバシーポリシーについてのご質問やご不明点がある場合は、以下の連絡先までお問い合わせください。<br/>
+        <a href="mailto:wtnbkisi@gmail.com">wtnbkisi@gmail.com</a>
       </p>
 
       <hr style={{ margin: '40px 0', border: 'none', borderTop: '1px solid #ccc' }} />
