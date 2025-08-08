@@ -102,9 +102,6 @@ git push origin main
 ### 5. gh-pagesブランチの更新
 
 ```bash
-# 変更を一時保存
-git stash
-
 # gh-pagesブランチに切り替え
 git checkout gh-pages
 
@@ -118,9 +115,6 @@ git push origin gh-pages
 
 # mainブランチに戻る
 git checkout main
-
-# 一時保存した変更を復元（必要な場合）
-git stash pop
 ```
 
 ### 6. 公開の確認
