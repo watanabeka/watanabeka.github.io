@@ -13,7 +13,9 @@
       "Bash(cat:*)",
       "Bash(touch:*)",
       "Bash(rm:*)",
-      "Bash(cp:*)"
+      "Bash(cp:*)",
+      "WebFetch(domain:watanabeka.github.io)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": []
   }
