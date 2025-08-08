@@ -11,7 +11,9 @@
       "Bash(npm run:*)",
       "Bash(git push:*)",
       "Bash(cat:*)",
-      "Bash(touch:*)"
+      "Bash(touch:*)",
+      "Bash(rm:*)",
+      "Bash(cp:*)"
     ],
     "deny": []
   }

@@ -2,9 +2,10 @@
   "/_not-found": "app/_not-found.js",
   "/page": "app/page.js",
   "/habitry/page": "app/habitry/page.js",
-  "/citytag/page": "app/citytag/page.js",
-  "/ai-music-quiz/page": "app/ai-music-quiz/page.js",
   "/calpat/page": "app/calpat/page.js",
   "/schooltag/page": "app/schooltag/page.js",
-  "/side-job-book/page": "app/side-job-book/page.js"
+  "/ai-music-quiz/page": "app/ai-music-quiz/page.js",
+  "/citytag/page": "app/citytag/page.js",
+  "/side-job-book/page": "app/side-job-book/page.js",
+  "/virtualmoney/page": "app/virtualmoney/page.js"
 }
